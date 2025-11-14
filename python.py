@@ -24,3 +24,13 @@ if 5 > 2:
 x=5
 y="Hello World!"
 print(y)
+
+
+
+# statements in the Python 
+# All the statements in python are executed line by line 
+# Every new line in python is a new statement
+
+print("State1")
+print("state2")
+print("state3")
